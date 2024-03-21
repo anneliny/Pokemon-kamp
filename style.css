@@ -1,0 +1,88 @@
+body {
+    margin: 50px;
+}
+
+img {
+    width: auto;
+    height: 300px;
+    margin-bottom: 50px;
+    display: grid;
+    justify-content: center;
+}
+
+button {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.updateViewContainer {
+    display: grid;
+    justify-content: center;
+}
+
+.startGameContainerImg {
+    display: flex;
+    justify-content: center;
+}
+
+.startGameContainerText {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    gap: 400px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.startGameContainerBtn {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+#spacingDiv {
+    margin: 50px;
+}
+
+.fightandCatchImg {
+    display: flex;
+    justify-content: center;
+}
+
+.fightandCatchText {
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.fightandCatchBtn {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.myPokemonContainer {
+    font-weight: bold;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.startGameClass{
+    display: flex;
+    justify-content: center;
+}
